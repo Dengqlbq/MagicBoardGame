@@ -2,7 +2,7 @@
 
 Power by Java 1.8.0_112 and NetBean IDE 8.2<br>
 
-Partner: @double<br>
+Partner : @double<br>
 
 ---
 开始游戏<br>
