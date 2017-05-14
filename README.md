@@ -1,6 +1,6 @@
 # MagicBoardGame
 
-Power by Java 1.8.0_112 NetBean IDE 8.2 Mysql 5.5<br>
+Power by Java 1.8.0_112, NetBean IDE 8.2 ,Mysql 5.5<br>
 
 Partner : @double<br>
 
