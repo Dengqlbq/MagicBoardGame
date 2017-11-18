@@ -21,4 +21,4 @@
 完成游戏:<br>
 ![Finish](https://github.com/Dengqlbq/MagicBoardGame/raw/master/Show/4.png)<br>
 
----
+
