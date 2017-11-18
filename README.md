@@ -8,7 +8,7 @@
 ### Partner： @double
 
 ---
-### 图片展示:
+### Image show:
 开始游戏:<br>
 ![Start](https://github.com/Dengqlbq/MagicBoardGame/raw/master/Show/1.png)<br>
 
